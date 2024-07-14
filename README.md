@@ -1,4 +1,8 @@
-The Voice Command System is a Python-based application designed to recognize and execute voice commands, providing an interactive and hands-free user experience. This project leverages speech recognition libraries to interpret spoken words and perform corresponding actions.
+Voice Command System
+
+OverviewT
+
+he Voice Command System is a Python-based application designed to recognize and execute voice commands, providing an interactive and hands-free user experience. This project leverages speech recognition libraries to interpret spoken words and perform corresponding actions.
 
 Features
 
